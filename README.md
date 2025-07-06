@@ -51,25 +51,25 @@ npm run dev
 ## 📸 Screenshots (Optional)
 
 Include screenshots or GIFs of:
-* Login
+  ### Login
   ![Screenshot 2025-07-06 122331](https://github.com/user-attachments/assets/f949a3a1-a6f1-444b-b75a-3fa805b665d3)
-* Register
+  ### Register
   ![Screenshot 2025-07-06 122403](https://github.com/user-attachments/assets/1071ff9c-0ecb-4e16-bb7e-b193f00d2c85)
-* Add Problem
+  ### Add Problem
   ![Screenshot 2025-07-06 122524](https://github.com/user-attachments/assets/2afa4db8-43e5-47bd-8fbf-df21a0e92e92)
-* Test case tab interaction
+  ### Test case tab interaction
   ![Screenshot 2025-07-06 122546](https://github.com/user-attachments/assets/08772829-cf22-4c0e-8ea4-c6666897d19d)
-* Landing Page
+  ### Landing Page
   ![Screenshot 2025-07-06 122617](https://github.com/user-attachments/assets/a603a489-76fa-4e41-914d-197be96af5d4)
-* Problem List Page
+  ### Problem List Page
   ![Screenshot 2025-07-06 122702](https://github.com/user-attachments/assets/6bc699d3-d9a2-455e-93ce-18be9fbe518d)
-* Problem Page Code Editor in action
+  ### Problem Page Code Editor in action
   ![Screenshot 2025-07-06 122739](https://github.com/user-attachments/assets/16ac1e02-760c-419c-93df-0fcde948af56)
-* Complexity Analysis by AI
+  ### Complexity Analysis by AI
   ![Screenshot 2025-07-06 122900](https://github.com/user-attachments/assets/731f43a2-03d7-4e99-b8f2-d102bb330de3)
-* Test Case Result By Judge0
+  ### Test Case Result By Judge0
   ![Screenshot 2025-07-06 181352](https://github.com/user-attachments/assets/0f13f662-18fb-48c4-96f1-287a6beb9c25)
-* Profile page with submission history
+  ### Profile page with submission history
   ![image](https://github.com/user-attachments/assets/e42813e6-72a3-4d06-ac9a-c9842ab03a8e)
 
 ---
