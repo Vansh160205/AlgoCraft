@@ -86,4 +86,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with ❤️ by \[Your Name] for learning, practice, and the love of clean code.
+> Made with ❤️ by Vansh for learning, practice, and the love of clean code.
